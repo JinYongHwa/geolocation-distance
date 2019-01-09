@@ -15,8 +15,8 @@
     "geoloaction",
     "distance"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "JinYongHwa",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JinYongHwa/geolocation-distance/issues"
   },
