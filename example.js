@@ -1,11 +1,4 @@
-### install
-```
-npm install geolocation-distance
-```
-
-### Useage
-``` javascript
-var geoDistance = require("geolocation-distance")
+var geoDistance = require("./index.js")
 
 
 var pointA = {
@@ -20,4 +13,3 @@ var pointB = {
 let distance = geoDistance.getDistance(pointA, pointB)
 console.log(distance)
 //326.05409101692806 (unit:km)
-```

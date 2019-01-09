@@ -1,0 +1,24 @@
+{
+  "name": "geolocation-distance",
+  "version": "1.0.0",
+  "description": "node.js calculate geolocation distance between two point",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinYongHwa/geolocation-distance.git"
+  },
+  "keywords": [
+    "node.js",
+    "geoloaction",
+    "distance"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinYongHwa/geolocation-distance/issues"
+  },
+  "homepage": "https://github.com/JinYongHwa/geolocation-distance#readme"
+}
