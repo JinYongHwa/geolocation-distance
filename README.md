@@ -3,7 +3,7 @@
 npm install geolocation-distance
 ```
 
-### Useage
+### Usage
 ``` javascript
 var geoDistance = require("geolocation-distance")
 
